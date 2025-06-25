@@ -1,0 +1,16 @@
+body {
+  background-color: #f8f9fa;
+}
+
+.modal-backdrop {
+  background-color: rgba(0,0,0,0.5) !important;
+}
+
+.table th {
+  white-space: nowrap;
+}
+
+.btn-sm {
+  padding: 0.25rem 0.5rem;
+  font-size: 0.875rem;
+}
